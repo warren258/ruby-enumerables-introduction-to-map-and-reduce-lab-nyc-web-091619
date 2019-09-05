@@ -5,7 +5,7 @@ def map_to_negativize(source_array)
   while i < source_array.length do
     val = source_array[i] * -1
     results.push(val)
-<<<<<<< HEAD
+#<<<<<<< HEAD
     i += 1
   end
   return results
@@ -94,10 +94,10 @@ def reduce_to_any_true(source_array)
 
 
 
-=======
-  end
-  i += 1
-  return results
-end
+#=======
+#  end
+ # i += 1
+#  return results
+#end
 
->>>>>>> 233fa6436d956a16ea1e51ee1086dbf0fd51d9f0
+#>>>>>>> 233fa6436d956a16ea1e51ee1086dbf0fd51d9f0
